@@ -65,12 +65,16 @@ The proposed method leverages the 405 nm wavelength of Blu-ray lasers to achieve
 
 # Advantages
 Cost-Effective: Utilizes affordable and readily available materials and equipment.
+
 Accessible: Suitable for small-scale researchers and hobbyists.
+
 High Resolution: The 405 nm wavelength allows for fine detail and precision in patterning.
 
 # Challenges
 Alignment and Stability: Requires precise alignment of optical components.
+
 Safety: Necessitates strict safety measures for handling lasers and chemicals.
+
 Reproducibility: Ensuring consistent results may require iterative adjustments.
 
 # Conclusion
